@@ -23,4 +23,5 @@
 .description button{
     border:0.1em  solid #666;
     color:#666;
+    outline: none;
 }
