@@ -4,8 +4,8 @@
 
 .description{
     position: absolute;
-    top: 30%;
-    margin: auto;
+    top: 25%;
+    margin-left: 3em;
     padding: 2em;
 }
 
@@ -21,6 +21,6 @@
 }
 
 .description button{
-    border:0.1rem  solid #666;
+    border:0.1em  solid #666;
     color:#666;
 }
